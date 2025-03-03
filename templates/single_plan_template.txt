@@ -1,0 +1,1 @@
+Subscription Plan name {name} and price of the plan is {price}. The Features are {features}

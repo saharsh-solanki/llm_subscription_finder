@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Basic",
+        "price": "$9.99/month",
+        "features": ["Access to standard features", "Email support", "1 user"],
+        "best_for": "Individuals"
+    },
+    {
+        "name": "Pro",
+        "price": "$29.99/month",
+        "features": ["Everything in Basic", "Priority support", "5 users"],
+        "best_for": "Small businesses"
+    },
+    {
+        "name": "Enterprise",
+        "price": "Custom",
+        "features": ["Dedicated account manager", "Unlimited users", "24/7 support"],
+        "best_for": "Large enterprises"
+    }
+]
